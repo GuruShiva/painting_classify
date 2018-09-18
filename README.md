@@ -8,9 +8,15 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 * Expressionism
 
+![The Storm](/common/expressionism1.jpg?raw=True "The Storm By Edward Munch")
+
 * Fauvism
 
-* Modern Abstract 
+![Matisse Woman](/common/matisse-woman-with-a-hat.jpg?raw=True "Mattise Woman With A Hat By Henri Mattise")
+
+* Modern Abstract
+
+![Modern Abstract Painting](/common/modern_abstract_1.jpg?raw=True "Modern Abstract Painting")
 
 ## Getting Started
 
@@ -18,9 +24,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You will need these tools installed before using the program
+You will need these tools installed before using the `get_train_data.py` and `get_test_data.py`
 
-* [GoogleImagesDownload] (https://github.com/hardikvasa/google-images-download)
+* [GoogleImagesDownload](https://github.com/hardikvasa/google-images-download)
 * ChromeDriver 
 
 
@@ -50,8 +56,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * Siraj Raval for ML/AI inspiration and starting School of AI
-* [Akshi Chaudary] (https://github.com/akshi8)- SchoolofAIVancouver
-* [Johannes Harmse] (https://github.com/johannesharmse)- SchoolofAIVancouver
-* [Xinbin Haung]  (https://github.com/xinbinhuang)- SchoolofAIVancouver
-* [Billie Thompson] (https://github.com/PurpleBooth)- For this amazing README.md template
+* [Akshi Chaudary](https://github.com/akshi8)- SchoolofAIVancouver
+* [Johannes Harmse](https://github.com/johannesharmse)- SchoolofAIVancouver
+* [Xinbin Haung](https://github.com/xinbinhuang)- SchoolofAIVancouver
+* [Billie Thompson](https://github.com/PurpleBooth)- For this amazing README.md template
 * The Internet 

@@ -8,17 +8,17 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 * Expressionism
 
-![Expressionist Woman](/common/expressionist-woman.jpg?=10pxx20px "Expressionist Woman"){:height="20%" width="20%"}
+![Expressionist Woman](/common/expressionist-woman.jpg?=10pxx20px "Expressionist Woman")
 
 
 * Fauvism
 
-![Matisse Woman](/common/matisse-woman-with-a-hat.jpg?raw=True "Mattise Woman With A Hat By Henri Mattise"){:height="20%" width="20%"}
+![Matisse Woman](/common/matisse-woman-with-a-hat.jpg "Mattise Woman With A Hat By Henri Mattise")
 
 
 * Modern Abstract
 
-![Modern Abstract Painting](/common/modern_abstract_1.jpg?raw=True "Modern Abstract Painting"){:height="20%" width="20%"}
+![Modern Abstract Painting](/common/modern_abstract_1.jpg "Modern Abstract Painting")
 
 
 ## Getting Started

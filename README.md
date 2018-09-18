@@ -4,21 +4,21 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 * Impressionism
 
-![Starry Night](/common/starry_night.jpg) {#id .class width=30 height=20px}
+![Starry Night](/common/starry_night.jpg "Starry Night By Vincent Van Gogh")
 
 * Expressionism
 
-![Expressionist Woman](/common/expressionist-woman.jpg =10x20 "Expressionist Woman")
+![Expressionist Woman](/common/expressionist-woman.jpg "Expressionist Woman")
 
 
 * Fauvism
 
-![Matisse Woman](/common/matisse-woman-with-a-hat.jpg =10x20 "Mattise Woman With A Hat By Henri Mattise")
+![Matisse Woman](/common/matisse-woman-with-a-hat.jpg  "Mattise Woman With A Hat By Henri Mattise")
 
 
 * Modern Abstract
 
-![Modern Abstract Painting](/common/modern_abstract_1.jpg =10x20 "Modern Abstract Painting")
+![Modern Abstract Painting](/common/modern_abstract_1.jpg  "Modern Abstract Painting")
 
 
 ## Getting Started

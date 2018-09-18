@@ -4,7 +4,7 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 * Impressionism
 
-![Starry Night](/common/starry_night.jpg?raw=True "Starry Night By Vincent Van Gogh"){:height="20%" width="20%"}
+![Starry Night](/common/starry_night.jpg?raw=True =100x20 "Starry Night By Vincent Van Gogh")
 
 * Expressionism
 

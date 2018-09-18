@@ -23,7 +23,7 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 ## Getting Started
 
-You can clone the repo to retrain and test the model. However please not that there arent any 'train' data in this repo. It has been removed to avoid uploading it to git.
+You can clone the repo to retrain and test the model. However please not that there arent any 'train' data in this repo. It has been removed to avoid uploading all the images to git.
 
 There are a couple 'test' data for testing purposes.
 

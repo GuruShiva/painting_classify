@@ -47,4 +47,4 @@ Thumbs.db
 !/common/*.jpg
 !/painting_classify/tf_files/data/test/fauvism\ painting/*.jpg
 !/painting_classify/tf_files/data/test/van\ gogh\ painting/*.jpg
-!/painting_classify/tf_files/data/
+!/painting_classify/tf_files/data/train/

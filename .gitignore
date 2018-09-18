@@ -38,7 +38,9 @@ Thumbs.db
 
 # Media Files #
 ###################
-.jpg
-.jpeg
-.png
+**/*.jpg
+**/.jpeg
+**/.png
+!/common/*.jpg
+!/painting_classify/tf_files/data/test/*.jpg
 

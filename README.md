@@ -23,7 +23,25 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+You can clone the repo to retrain and test the model. However please not that there arent any 'train' data in this repo. It has been removed to avoid uploading it to git.
+
+There are a couple 'test' data for testing purposes.
+
+The `retrain.py` was run by the following config:
+
+```
+
+python src/retrain.py \
+    --bottleneck_dir tf_files/bottlenecks \
+    --image_dir tf_files/data/train \
+    --tfhub_module https://tfhub.dev/google/imagenet/mobilenet_v1_075_160/feature_vector/1 \
+    --how_many_training_steps 100 \
+    --train_batch_size 500 \
+    --validation_batch_size 300 \
+    --summaries_dir tf_files/retrain_logs \
+    --output_graph tf_files/output_graph.pb \
+    --output_labels tf_files/output_labels.txt
+```
 
 ### Prerequisites
 
@@ -41,20 +59,25 @@ You will need these tools installed before using the `get_train_data.py` and `ge
 * [TensorFlow](https://www.tensorflow.org/) - Opensource Machine Learning Framework
 
 
-## Contributing
+## Known Bugs
 
-Please read [CONTRIBUTING.md]for details on our code of conduct, and the process for submitting pull requests to us.
+There are some known issues in this repo for `get_train_data.py` and `get_test_data.py`. These issues can be fixed manually. 
+
+Issue 1- Often the image scraper downloads images that are not '.jpg' which leads to the `retrain.py` to give an error.
+Deleting the particular image solves the issue ;)
+
+Issue 2- The image scraper downloads the images with the image file name as it is. The `retrain.py` does not take file with long file names. Simply renaming the file fixes this issue. 
 
 
 ## Authors
 
 * **Guru Shiva** - *Initial work* 
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License
 
 ## Acknowledgments
 

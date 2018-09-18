@@ -1,8 +1,10 @@
 # What Painting Is This?
 
-This project was created for #SchoolofAIVancouver Image Classification Code Challenge 1. This image classification tries to classify paintinfs into 4 classes:
+This project was created for #SchoolofAIVancouver Image Classification Code Challenge 1. This image classification tries to classify paintings into 4 classes:
 
 * Impressionism
+
+![Starry Night](/common/starry_night.jpg?raw=True "Starry Night By Vincent Van Gogh")
 
 * Expressionism
 

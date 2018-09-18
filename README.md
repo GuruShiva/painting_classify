@@ -4,7 +4,7 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 * Impressionism
 
-![Starry Night](/common/starry_night.jpg) { height=10% width=10%}
+![Starry Night](/common/starry_night.jpg) {#id .class width=30 height=20px}
 
 * Expressionism
 

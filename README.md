@@ -63,10 +63,9 @@ You will need these tools installed before using the `get_train_data.py` and `ge
 
 There are some known issues in this repo for `get_train_data.py` and `get_test_data.py`. These issues can be fixed manually. 
 
-Issue 1- Often the image scraper downloads images that are not '.jpg' which leads to the `retrain.py` to give an error.
-Deleting the particular image solves the issue ;)
+*Issue 1- Often the image scraper downloads images that are not '.jpg' which leads to the `retrain.py` to give an error.Deleting the particular image solves the issue ;)
 
-Issue 2- The image scraper downloads the images with the image file name as it is. The `retrain.py` does not take file with long file names. Simply renaming the file fixes this issue. 
+*Issue 2- The image scraper downloads the images with the image file name as it is. The `retrain.py` does not take file with long file names. Simply renaming the file fixes this issue. 
 
 
 ## Authors

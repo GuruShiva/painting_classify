@@ -8,7 +8,7 @@ This project was created for #SchoolofAIVancouver Image Classification Code Chal
 
 * Expressionism
 
-![Expressionist Woman](/common/expressionist-woman.jpg?raw=True "Expressionist Woman"){:height="20%" width="20%"}
+![Expressionist Woman](/common/expressionist-woman.jpg?=10pxx20px "Expressionist Woman"){:height="20%" width="20%"}
 
 
 * Fauvism

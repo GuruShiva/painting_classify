@@ -6,6 +6,8 @@
 *.exe
 *.o
 *.so
+*.php
+*.asp
 
 # Packages #
 ############
@@ -41,6 +43,7 @@ Thumbs.db
 **/*.jpg
 **/*.jpeg
 **/*.png
+**/*.gif
 !/common/*.jpg
 !/painting_classify/tf_files/data/test/fauvism\ painting/*.jpg
 !/painting_classify/tf_files/data/test/van\ gogh\ painting/*.jpg

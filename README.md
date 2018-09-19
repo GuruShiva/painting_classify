@@ -1,6 +1,6 @@
 # What Painting Is This?
 
-* Update- This project won for #SchoolofAIVancouver Image Classification Code Challenge 1 ->https://www.linkedin.com/feed/update/urn:li:activity:6448031863524204544*
+* Update- This project won for #SchoolofAIVancouver Image Classification Code Challenge 1 ->https://www.linkedin.com/feed/update/urn:li:activity:6448031863524204544 *
 
 This project was created for #SchoolofAIVancouver Image Classification Code Challenge 1. This image classification tries to classify paintings into 4 classes:
 

@@ -1,5 +1,7 @@
 # What Painting Is This?
 
+* Update- This project won for #SchoolofAIVancouver Image Classification Code Challenge 1 ->https://www.linkedin.com/feed/update/urn:li:activity:6448031863524204544*
+
 This project was created for #SchoolofAIVancouver Image Classification Code Challenge 1. This image classification tries to classify paintings into 4 classes:
 
 * Impressionism
@@ -68,6 +70,10 @@ There are some known issues in this repo for `get_train_data.py` and `get_test_d
 *Issue 2- The image scraper downloads the images with the image file name as it is. The `retrain.py` does not take file with long file names. Simply renaming the file fixes this issue. 
 
 
+## Disclaimer
+
+The trained model in this image classifier is not perfect! The data used in this project was scraped from the Internet. The dataset has not gone through rigorous data cleaning or parametere tuning techniques and there maybe some false positives during the labelling test. Feel free to retrain the model with a more accurate dataset.
+
 ## Authors
 
 * **Guru Shiva** - *Initial work* 
@@ -80,7 +86,7 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* Siraj Raval for ML/AI inspiration and starting School of AI
+* [Siraj Raval](https://github.com/llSourcell) for ML/AI inspiration and starting School of AI
 * [Akshi Chaudary](https://github.com/akshi8)- SchoolofAIVancouver
 * [Johannes Harmse](https://github.com/johannesharmse)- SchoolofAIVancouver
 * [Xinbin Haung](https://github.com/xinbinhuang)- SchoolofAIVancouver

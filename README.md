@@ -72,7 +72,7 @@ There are some known issues in this repo for `get_train_data.py` and `get_test_d
 
 ## Disclaimer
 
-The trained model in this image classifier is not perfect! The data used in this project was scraped from the Internet. The dataset has not gone through rigorous data cleaning or parametere tuning techniques and there maybe some false positives during the labelling test. Feel free to retrain the model with a more accurate dataset.
+The trained model in this image classifier is not perfect! The data used in this project was scraped from the Internet. The dataset has not gone through rigorous data cleaning or parameter tuning techniques and there maybe some false positives during the labelling test. Feel free to retrain the model with a more accurate dataset.
 
 ## Authors
 

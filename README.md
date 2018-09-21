@@ -74,6 +74,12 @@ There are some known issues in this repo for `get_train_data.py` and `get_test_d
 
 The trained model in this image classifier is not perfect! The data used in this project was scraped from the Internet. The dataset has not gone through rigorous data cleaning or parameter tuning techniques and there maybe some false positives during the labelling test. Feel free to retrain the model with a more accurate dataset.
 
+## Video 
+
+Here is a quick video showing bits of the code and the labelling test:
+
+https://www.youtube.com/watch?v=kTQE1eTARnA
+
 ## Authors
 
 * **Guru Shiva** - *Initial work* 
